@@ -1,0 +1,38 @@
+<html>
+         <head>
+                 <title>mi pagina web</title>
+                 >link rel="stylesheet" type="text/css" href="stilo.css">
+        </head>
+        <body>
+                <h1>titulo: h1</h1>
+                <h2>titulo: h2</h2>
+                <h3>titulo: h3</h3>
+                <h4>titulo: h4</h4>
+                <h5>titulo: h5</h5>
+                <p>
+                    esto es un parrafo <b>con la etiqueta b hago negrita
+                    </b>
+                    <br>con la etiqueta br, hago salto de linea
+                    <br>la etiqueta br no cierra
+                </p>
+                <table> <!-- esto es una tabla -->
+                    <tr> <!-- esto es una fila -->
+                         <th> <!-- esto es un encabezado de tabla -->
+                             encabezado de columna 
+                         </th>
+                         <th>
+                              columna dos 
+                        </th>
+                    </tr>
+                    <tr>
+                         <td> <!-- esto es una celda -->
+                              fila 1,1
+                        </td>
+                       <td>
+                             fila 1,2
+                        </td>
+                    </tr>
+                </table>
+                 <div class="mi-clase"> hola MUNDO!! </div>
+            </body>
+        <html>
