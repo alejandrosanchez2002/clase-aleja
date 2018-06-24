@@ -1,3 +1,7 @@
+body{
+	background-color: #848484 ;
+}
+
 table, tr, td, th {
 border-style: solid; border-width: 1px;
 border-color: black;
@@ -8,4 +12,15 @@ border-color: black;
 	background-color: #00FF00 ;
 	font-size: 20px;
 	font-wight: bold;
+}
+.oculto {
+	display: none;	
+}
+.color-letras-azul {
+	color: #0101DF;
+	font-size: 20px;
+}
+.color-letras-azul-oscuro {
+	color: #0B0B3B;
+	font-size: 20px;
 }
